@@ -1,0 +1,39 @@
+
+# oldstable
+deb http://debian.org.ua/debian/ oldstable main contrib non-free
+deb-src http://debian.org.ua/debian/ oldstable main contrib non-free
+
+deb http://debian.org.ua/debian/ oldstable-backports main contrib non-free
+deb-src http://debian.org.ua/debian/ oldstable-backports main contrib non-free
+
+deb http://debian.org.ua/debian/ oldstable-proposed-updates main contrib non-free  
+deb-src http://debian.org.ua/debian/ oldstable-proposed-updates free contrib non-free
+
+deb http://debian.org.ua/debian/ oldstable-updates main contrib non-free
+deb-src http://debian.org.ua/debian/ oldstable-updates main contrib non-free
+
+# stable
+deb http://debian.org.ua/debian/ stable main contrib non-free
+deb-src http://debian.org.ua/debian/ stable main contrib non-free
+
+deb http://debian.org.ua/debian/ stable-backports main contrib non-free
+deb-src http://debian.org.ua/debian/ stable-backports main contrib non-free
+
+deb http://debian.org.ua/debian/ stable-proposed-updates main contrib non-free
+deb-src http://debian.org.ua/debian/ stable-proposed-updates main contrib non-free
+
+deb http://debian.org.ua/debian/ stable-updates main contrib non-free
+deb-src http://debian.org.ua/debian/ stable-updates main contrib non-free
+
+# testing
+#deb http://debian.org.ua/debian/ testing main contrib non-free
+#deb-src http://debian.org.ua/debian/ testing main contrib non-free
+
+#deb http://debian.org.ua/debian/ testing-proposed-updates main contrib non-free
+#deb-src http://debian.org.ua/debian/ testing-proposed-updates main contrib non-free
+
+#deb http://debian.org.ua/debian/ testing-updates main contrib non-free
+#deb-src http://debian.org.ua/debian/ testing-updates main contrib non-free
+
+#deb http://security.debian.org/ testing/updates main contrib
+#deb-src http://security.debian.org/ testing/updates main contrib
