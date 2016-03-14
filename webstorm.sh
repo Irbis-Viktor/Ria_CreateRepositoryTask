@@ -1,0 +1,1 @@
+/home/alex/Загрузки/WebStorm-143.1559.5/bin/webstorm.sh
